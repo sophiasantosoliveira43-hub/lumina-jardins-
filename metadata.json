@@ -1,0 +1,6 @@
+{
+  "name": "Edifício Lumina - Apartamentos de Alto Padrão",
+  "description": "Landing page exclusiva para venda de apartamento de alto padrão com plantas amplas, varanda gourmet e lazer completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
